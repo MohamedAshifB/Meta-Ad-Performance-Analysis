@@ -89,8 +89,3 @@ Top performing countries:
 5. Run ads during **afternoon & evening hours**.
 
 ---
-
-## 📄 Reference
-Dashboard Insights Source:  
-`/mnt/data/Dashboard Insights.pdf`
-
